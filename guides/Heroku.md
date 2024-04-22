@@ -2,7 +2,7 @@
 
 One click deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/pghero/pghero)
+Build.io
 
 ## Authentication
 
